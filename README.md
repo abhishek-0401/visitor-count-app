@@ -1,5 +1,11 @@
 # Visitor-Count-App
-In this app, we can hit the api given below to get the number of hit counts
+In this app, we can hit the api given below to get the number of hit counts.
+#### Tools used:
+-  JDK 17
+-  Intelij IDEA
+#### Dependencies used:
+-  Spring Web
+-  Spring Boot Dev Tools
 
 > http://localhost:8080/api/v1/visitor-count-app
 
